@@ -1,0 +1,6 @@
+# aws-alarm2TG
+
+### SET ENVIROMENT VARIABLES
+
+1. CHAT_ID
+2. TOKEN 
